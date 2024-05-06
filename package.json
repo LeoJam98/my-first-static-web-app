@@ -2,6 +2,6 @@
   "name": "vanilla-basic",
   "version": "1.0.0",
   "scripts": { 
-    "start": "npm run build"
+    "build": "npm run build"
   }
 }
